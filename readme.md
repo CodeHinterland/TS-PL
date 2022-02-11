@@ -1,5 +1,5 @@
 # code for Time Series Prompt-Learner
-creat the floder "model" first
+create the floder "model" first
 ```
 mkdir model
 ```
